@@ -4,7 +4,7 @@
 
 <h3>Components Required</h3>
 <ol>
-  <li>Surface</li> //too put L293N and aruduino nano on
+  <li>Surface</li>
   <li>Arduino Nano</li>
   <li>Jumper wires</li>
   <li>4 motor driver</li>
