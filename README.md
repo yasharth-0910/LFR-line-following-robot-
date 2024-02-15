@@ -9,6 +9,6 @@
   <li>Jumper wires</li>
   <li>4 motor driver</li>
   <li>4 wheels</li>
-  <li>L293D</li>
+  <li>L293N</li>
   <li>Battery</li>
 </ol>
